@@ -1,6 +1,48 @@
-.nav-item home{
-    color: blue;
-}
+
 span{
     color: blue;
+}
+.card {
+    border-radius:25px ;
+    background-color:rgb(233, 231, 231);
+    border: none;
+}
+.view{
+    background-color: aliceblue;
+    color: blue;
+    border: none;
+
+}
+.card-body{
+     border-radius:25px ;
+    border: none;
+    position: relative;
+
+}
+.size{
+    width:200px ;
+}
+.bell{
+    position: absolute;
+    right:0px ;
+    top: 0px;
+    width:100px ;
+}
+.back{
+    background-color: rgba(232, 244, 250, 1);
+height:400px ;
+
+}
+.subscribe{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    box-shadow: 1px 5px 2px rgb(66, 66, 66);
+}
+.pic{
+    width: 45px;
+    margin-bottom:35px ;
+}
+.icon{
+    margin-top: 150px ;
 }
